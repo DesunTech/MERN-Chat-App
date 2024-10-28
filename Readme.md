@@ -1,16 +1,16 @@
-install the dependencies
-cd server
-yarn
-cd ..
-cd public
-yarn
+install the dependencies </br>
+cd server</br>
+yarn</br>
+cd ..</br>
+cd public</br>
+yarn</br>
 
 
-Start Frontend
-cd public
-yarn start
+Start Frontend</br>
+cd public</br>
+yarn start</br>
 
-Start Backend
-cd server
-yarn start
+Start Backend</br>
+cd server</br>
+yarn start</br>
 
